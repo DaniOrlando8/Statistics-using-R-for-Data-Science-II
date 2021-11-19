@@ -1,0 +1,9 @@
+Kesimpulan
+Selamat! Dengan menyelesaikan bab kedua ini maka Anda sudah menyelesaikan course "Introduction to Statictics 
+with R" yang singkat namun padat ini!
+
+Dari pembahasan materi diatas maka kesimpulannya sebagai berikut:
+
+Sebelum memulai menganalisis data harus dilihat summary per tiap variabel.
+Analisis Deskriptif digunakan untuk membangun sebuah hipotesis.
+Analisis Inferensia digunakan untuk menguji hipotesis.
